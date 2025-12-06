@@ -1,6 +1,6 @@
 # Power BI Dashboards Portfolio
 
-A comprehensive collection of interactive Power BI dashboards demonstrating data visualization, business intelligence, and analytical storytelling skills. This portfolio showcases the ability to transform raw data into actionable insights through compelling visual narratives and user-centered dashboard design.
+A comprehensive collection of interactive Power BI dashboards demonstrating data visualization, business intelligence, and analytical storytelling skills. This portfolio showcases the ability to tr[...]
 
 ## 📊 Portfolio Overview
 
@@ -33,7 +33,7 @@ powerbi-dashboards/
 
 ### 1. Adventure Works Business Intelligence Suite
 
-**Context**: Adventure Works is a fictional multinational manufacturing company that produces and sells bicycles and cycling accessories. This comprehensive BI suite provides executives and managers with real-time insights into customer behavior, sales performance, and operational metrics.
+**Context**: Adventure Works is a fictional multinational manufacturing company that produces and sells bicycles and cycling accessories. This comprehensive BI suite provides executives and manage[...]
 
 **Dashboards**:
 - **Customer Analytics** - Customer segmentation, geographic distribution, payment preferences
@@ -347,7 +347,7 @@ All dashboards are optimized for multiple viewing experiences:
 **Srividhya G Ammanur**  
 Master of Analytics Student, Georgia Tech  
 📧 sammanur@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/srividhya-ammanur)  
+🔗 [LinkedIn](https://www.linkedin.com/in/srividhya-ammanur)  
 💻 [GitHub](https://github.com/Sri-spec)
 
 ---
@@ -359,7 +359,7 @@ Master of Analytics Student, Georgia Tech
 - **Privacy**: No proprietary or sensitive data included
 - **Licensing**: Sample data used under appropriate licenses
 
-**Note**: These are PDF exports of interactive Power BI dashboards. The actual .pbix files contain full interactivity, drill-through capabilities, and dynamic filtering not visible in static PDFs.
+**Note**: These are PDF exports of interactive Power BI dashboards. The actual .pbix files contain full interactivity, drill-through capabilities, and dynamic filtering not visible in static PDFs[...]
 
 ---
 
