@@ -347,7 +347,7 @@ All dashboards are optimized for multiple viewing experiences:
 **Srividhya G Ammanur**  
 Master of Analytics Student, Georgia Tech  
 📧 sammanur@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/srividhya-ammanur)  
+🔗 [LinkedIn](https://www.linkedin.com/in/srividhya-ammanur-9662b6205)
 💻 [GitHub](https://github.com/Sri-spec)
 
 ---
